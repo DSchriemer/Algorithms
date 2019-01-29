@@ -24,7 +24,7 @@ class Interviews
   }
 
 
-  //given two strings, determine if each has the same amount of characters
+  //given two strings, determine if each has the same amount of each character
   static boolean sameLetters(String a, String b)
   {
     if(a.length() != b.length())
